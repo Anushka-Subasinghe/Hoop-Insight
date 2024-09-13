@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "524754847129",
+    "project_id": "hoop-insight-112ba",
+    "storage_bucket": "hoop-insight-112ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524754847129:android:193bfdd8eb8ae459953f08",
+        "android_client_info": {
+          "package_name": "com.example.hoop_insight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524754847129-k2dsl1khnou1459bt6563o5ea4vs5jve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFxQZY9nxLZ07Ecxw6PEi6QdkcK4MUGg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524754847129-g6iaqr8fl2baohh5civ3875287pikt8c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "524754847129-74vqen0rii4kp4oj9uhe2io4mhdropkd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hoopInsight"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
